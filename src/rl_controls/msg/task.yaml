@@ -1,0 +1,6 @@
+#llm output 
+string task_type          # 'single_bot' or 'multi_bot'
+string property           # e.g., 'charging_station', 'delivery_point', etc.
+string location           # 'nearest', 'farthest', 'mid'
+string bot_name           # botX
+
